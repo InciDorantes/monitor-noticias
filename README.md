@@ -90,14 +90,6 @@ Al terminar se generará el archivo `noticias.docx` en la raíz del proyecto con
 - **Top 5 noticias** más relevantes con resumen ejecutivo
 - **Lista de otras noticias relevantes** con título, medio, fecha y liga
 
----
-
-## Roadmap
-El proyecto esta en su etapa 1, sin embargo, se tiene un roadmap de seguimiento.
-
-- **Etapa 2** — Agregar extracción de medios sin RSS.
-- **Etapa 3** — Despliegue en servidor, ejecución automática 2 veces al día y envío por correo o WhatsApp
-
 ## Autora
 
 Inci Dorantes Malpica
