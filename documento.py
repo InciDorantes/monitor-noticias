@@ -82,4 +82,4 @@ def generar_doc(sorted_resultados_filtrados):
                 r.font.name = 'Lato'
                 p.paragraph_format.line_spacing = Pt(18)
 
-    doc.save('noticias.docx')
+    doc.save('output/noticias.docx')
